@@ -14,7 +14,7 @@ This is to be used to learn Git-based development.
 * An Internet connection 
 * Power supply
 
-#### This is heading 4 
+# Addition 
 
-### This is heading 3
+This sentence was written on the local machine . 
 
